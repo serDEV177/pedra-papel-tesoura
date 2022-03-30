@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(22, 22, 22);
+}
+main {
+  height: auto;
+  width: 900px;
+  background-color: white;
+  display: table;
+  margin: 60px auto;
+}
+.title {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(44, 180, 44);
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  padding: 5px;
+}
+.box-conteiner {
+  width: 100%;
+  height: auto;
+  display: table;
+  background-color: hotpink;
+  margin: 0 0 10px 0;
+  display: table;
+}
+.jokempo {
+  width: 250px;
+  height: 250px;
+  background-color: blue;
+  margin: 25px;
+  display: table;
+  float: left;
+}
+.pedra {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.box-duelo {
+  width: 100%;
+  height: auto;
+  display: table;
+  background-color: rgb(72, 255, 0);
+  margin: 0 0 10px 0;
+  display: table;
+}
+.jokempo2 {
+  width: 400px;
+  height: 250px;
+  background-color: transparent;
+  margin: 10px;
+  display: table;
+  float: left;
+}
+.jokempo3 {
+  width: 400px;
+  height: 250px;
+  background-color: transparent;
+  margin: 10px;
+  display: table;
+  float: right;
+}
+.euduelo {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(255, 255, 255);
+  margin: 25px;
+  display: table;
+  margin: 10px auto;
+}
+.showtime {
+  width: 100%;
+  height: 60px;
+  background-color: red;
+  margin: 0;
+}
+.showtime h1 {
+  font-size: 30px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+.placar {
+  width: 100%;
+  height: 70px;
+  background-color: white;
+}
+.valorV {
+  width: 50%;
+  height: 70px;
+  margin: 0;
+  background-color: green;
+  float: left;
+}
+.valorR {
+  width: 50%;
+  height: 70px;
+  margin: 0;
+  background-color: orange;
+  float: left;
+}
+.valorV h1 {
+  text-align: center;
+  color: white;
+  padding: 12px;
+}
+.valorR h1 {
+  text-align: center;
+  color: white;
+  padding: 12px;
+}
